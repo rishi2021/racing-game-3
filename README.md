@@ -1,1 +1,2 @@
-# racing-game-3
+# synchronousBallMovement
+Ball moving synchronously
